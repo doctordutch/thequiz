@@ -1,7 +1,7 @@
-# THEQUIZ Javascript Coding Quiz
+# THE QUIZ Javascript Coding Quiz
 
 This is a timed quiz with coding-based questions written in HTML, CSS, and JS.
-Players are penalized for wrong answers.
+Players' time is penalized for wrong answers.
 It includes high score functionality using localStorage.
 
 ## Deployed Application:
