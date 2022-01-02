@@ -4,6 +4,10 @@ This is a timed quiz with coding-based questions written in HTML, CSS, and JS.
 Players are penalized for wrong answers.
 It includes high score functionality using localStorage.
 
+## Deployed Application:
+
+[The Quiz](https://doctordutch.github.io/thequiz/)
+
 
 ### SCREENSHOTS
 
